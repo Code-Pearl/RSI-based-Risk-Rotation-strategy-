@@ -1,5 +1,5 @@
 # Single Popped Dividends Strategy Backtest
-[!real_equity_curve.jpg]curve
+curve![real_equity_curve.jpg]curve
 A momentum and mean-reversion backtest strategy that rotates between leveraged ETFs, sector funds, and volatility hedges based on RSI signals.
 
 ## Overview
